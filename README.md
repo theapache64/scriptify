@@ -12,3 +12,6 @@ $('header.header').remove();
 $('footer.footer').remove();
 $('div.builder').css({'margin-bottom':'0px'});
 ```
+
+##### DEMO
+![demo](resumebuild.com_demo.gif)
