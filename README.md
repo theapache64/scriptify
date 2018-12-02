@@ -11,6 +11,7 @@ $('div.resume-buttons').remove();
 $('header.header').remove();
 $('footer.footer').remove();
 $('div.builder').css({'margin-bottom':'0px'});
+$('div').css('font-size','18px');
 ```
 
 ##### DEMO
